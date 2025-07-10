@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/480922811531264080/826fcf92fe2a4a7e9ff5ec04dd2a080e/artifacts
+end_time: 1752105659161
+entry_point_name: ''
+experiment_id: '480922811531264080'
+lifecycle_stage: active
+run_id: 826fcf92fe2a4a7e9ff5ec04dd2a080e
+run_name: Logistic Regression
+run_uuid: 826fcf92fe2a4a7e9ff5ec04dd2a080e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752105655902
+status: 3
+tags: []
+user_id: pushkar

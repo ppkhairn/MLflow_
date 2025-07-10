@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/256557236605187031
+creation_time: 1752105587750
+experiment_id: '256557236605187031'
+last_update_time: 1752105587750
+lifecycle_stage: active
+name: Logistic with Iris

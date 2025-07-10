@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451070335349633589/f6a3e5e26c264986b4982b8cdc597b14/artifacts
+end_time: 1752183866098
+entry_point_name: ''
+experiment_id: '451070335349633589'
+lifecycle_stage: active
+run_id: f6a3e5e26c264986b4982b8cdc597b14
+run_name: awesome-fox-179
+run_uuid: f6a3e5e26c264986b4982b8cdc597b14
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752183866069
+status: 4
+tags: []
+user_id: pushkar

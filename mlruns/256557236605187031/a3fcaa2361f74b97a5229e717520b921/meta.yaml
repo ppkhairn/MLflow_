@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/256557236605187031/a3fcaa2361f74b97a5229e717520b921/artifacts
+end_time: 1752105591378
+entry_point_name: ''
+experiment_id: '256557236605187031'
+lifecycle_stage: active
+run_id: a3fcaa2361f74b97a5229e717520b921
+run_name: suave-jay-573
+run_uuid: a3fcaa2361f74b97a5229e717520b921
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752105587761
+status: 3
+tags: []
+user_id: pushkar

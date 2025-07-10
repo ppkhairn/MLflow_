@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451070335349633589/4d0edfad9d074b8ea9046011a7a1556a/artifacts
+end_time: 1752182887603
+entry_point_name: ''
+experiment_id: '451070335349633589'
+lifecycle_stage: active
+run_id: 4d0edfad9d074b8ea9046011a7a1556a
+run_name: xgboost
+run_uuid: 4d0edfad9d074b8ea9046011a7a1556a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752182883503
+status: 3
+tags: []
+user_id: pushkar

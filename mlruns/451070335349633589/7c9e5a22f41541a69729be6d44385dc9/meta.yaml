@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451070335349633589/7c9e5a22f41541a69729be6d44385dc9/artifacts
+end_time: 1752182879793
+entry_point_name: ''
+experiment_id: '451070335349633589'
+lifecycle_stage: active
+run_id: 7c9e5a22f41541a69729be6d44385dc9
+run_name: Random Forest
+run_uuid: 7c9e5a22f41541a69729be6d44385dc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752182876123
+status: 3
+tags: []
+user_id: pushkar

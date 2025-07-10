@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/451070335349633589/0d5a9578636444bd917f17956f54b6e8/artifacts
+end_time: 1752184216074
+entry_point_name: ''
+experiment_id: '451070335349633589'
+lifecycle_stage: active
+run_id: 0d5a9578636444bd917f17956f54b6e8
+run_name: fortunate-flea-829
+run_uuid: 0d5a9578636444bd917f17956f54b6e8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752184216055
+status: 4
+tags: []
+user_id: pushkar

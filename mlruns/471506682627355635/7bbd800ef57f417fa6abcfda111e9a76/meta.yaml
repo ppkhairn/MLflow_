@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/471506682627355635/7bbd800ef57f417fa6abcfda111e9a76/artifacts
+end_time: 1752182832315
+entry_point_name: ''
+experiment_id: '471506682627355635'
+lifecycle_stage: active
+run_id: 7bbd800ef57f417fa6abcfda111e9a76
+run_name: amusing-colt-985
+run_uuid: 7bbd800ef57f417fa6abcfda111e9a76
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752182827974
+status: 3
+tags: []
+user_id: pushkar
