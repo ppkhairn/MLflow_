@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1752260640748
+current_stage: None
+description: ''
+last_updated_timestamp: 1752260640748
+name: Fraud_Detection-1
+run_id: 5e6b43c0bb7b47458899b5bf1a40d559
+run_link: ''
+source: models:/XGBoost/3
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/480922811531264080/5e6b43c0bb7b47458899b5bf1a40d559/artifacts/xgboost
+user_id: null
+version: 1

@@ -1,6 +1,7 @@
 aliases:
   challenger: '1'
+  champion: '3'
 creation_timestamp: 1752184216072
 description: ''
-last_updated_timestamp: 1752184652868
+last_updated_timestamp: 1752260560813
 name: XGBoost
