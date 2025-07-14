@@ -46,3 +46,5 @@ dist/
 
 *build.zip
 *dist.zip
+
+.env
